@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Problems>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0013</Rule>
+    <ProblemDescription>Output parameter (@OUTPUT) is not populated in all code paths.</ProblemDescription>
+    <SourceFile>D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\obj\Debug\LIBRARY.generated.sql</SourceFile>
+    <Line>8</Line>
+    <Column>169</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+</Problems>

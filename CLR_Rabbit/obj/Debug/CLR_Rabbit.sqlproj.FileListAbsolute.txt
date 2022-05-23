@@ -1,0 +1,9 @@
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\CLR_Rabbit.dacpac
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\CLR_Rabbit.dll
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\CLR_Rabbit.pdb
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\Library.dll
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\Library.pdb
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\bin\Debug\Library.dll.config
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\obj\Debug\CLR_Rabbit.sqlproj.CopyComplete
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\obj\Debug\CLR_Rabbit.dll
+D:\Repositorios\Git\CLR_Rabbit\CLR_Rabbit\CLR_Rabbit\obj\Debug\CLR_Rabbit.pdb
